@@ -1,0 +1,12 @@
+Customer Id,Name,Email,Phone,Gender,address,country,state,city,birth_date,customer_img,birth_place,birth_time,longitude,latitude,status,created_at,updated_at
+CUS0028,,,9.12525E+11,,,,,,,,,,,,1,2022-12-31 13:57:15,2022-12-31 13:57:15
+CUS0024,Demo,demo@demo.com,9.1951E+11,Male,Guidhhs,25,25,25,2022-12-01,53638.jpeg,"Kota, Rajasthan, India",14:55:00,75.8647527,25.2138156,1,2022-12-22 11:53:54,2022-12-22 17:26:04
+CUS0022,test,akashdehmo@gmail.com,9509819815,male,test,,,,2022-09-22,84829.png,hh,12:45:05,56,55,1,2022-12-21 17:36:14,2022-12-21 23:07:26
+CUS0021,test,akashdehmo@gmail.com,9509819815,male,test,1,2,2,2022-09-22,57612.png,hh,12:45:05,56,55,1,2022-12-21 17:31:48,2022-12-21 23:05:05
+CUS0020,Akash sadani,akash@demo.com,9.1951E+11,Male,Near devanshish city,25,25,25,1999-11-21,,"Kota, Rajasthan, India",17:25:00,75.8647527,25.2138156,1,2022-12-21 17:16:58,2022-12-21 22:48:13
+CUS0018,krishna gautam,narbhakshi4@gmail.com,9.17298E+11,Male,kota,25,25,25,2000-07-07,54909.jpg,"Kota, Rajasthan, India",02:08:00,75.8647527,25.2138156,1,2022-12-20 12:15:52,2022-12-20 17:49:10
+CUS0015,manish,mahendrakumarbtech@gmail.com,9.18104E+11,Male,kota,25,,,2022-05-23,,"Kota, Rajasthan, India",00:00:00,75.8647527,25.2138156,1,2022-12-18 08:52:11,2022-12-18 16:15:14
+CUS0012,akash,akashrathor44@gmail.com,9.19252E+11,Male,2-b-6 Sanjay Gandhi nagar,25,25,25,1994-12-18,,"Kota, Rajasthan, India",00:00:00,75.8647527,25.2138156,1,2022-12-18 06:14:33,2022-12-18 17:03:49
+CUS0011,Surendra Kumar Suman,surendrasuman36@gmail.com,9.1769E+11,Male,Kota Rajasthan,25,25,25,1990-07-04,83793.jpg,"Kota, Rajasthan, India",10:16:00,75.8647527,25.2138156,1,2022-12-17 15:45:08,2022-12-21 02:34:16
+CUS0010,Aman Gupta,amangupta@gmail.com,9.16264E+11,male,,,,,2022-12-28,89116.jpg,kota,08:33:00,,,1,2022-12-17 13:13:03,2022-12-28 18:33:45
+CUS0009,test,akashdehmo@gmail.com,9509819815,male,test,1,2,2,2022-09-22,,hh,12:45:05,56,55,1,2022-12-17 12:04:51,2022-12-21 17:07:45

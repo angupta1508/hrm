@@ -1,0 +1,2 @@
+Admin Id,User Id,Username,Role Id,Name,Email,Mobile,Address,City,State,Country,Gender,Latitude,Longitude,Status,Created Date,updated Date
+15,ADM-STF0007,vikas,4,obama,obama@gmail.com,9.17896E+11,america,Kota,Rajasthan,INDIA,Other,,,1,2023-05-19 07:18:25,2023-05-19 07:18:25
